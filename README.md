@@ -29,7 +29,4 @@ CONCLUSION:
 In conclusion, a to-do list is an invaluable tool for enhancing productivity, organization, and time management. By providing a clear and structured overview of tasks, it helps individuals prioritize their responsibilities and manage their time effectively. Whether in a simple handwritten format or a sophisticated digital application, to-do lists facilitate better task tracking and progress monitoring. Regular use of a to-do list can reduce stress, prevent important tasks from being overlooked, and foster a sense of achievement as tasks are completed. Ultimately, integrating a to-do list into daily routines can significantly improve personal and professional efficiency, making it an essential component of effective task management.
 
 
-OUTPUT:
-
-![todolistapp](https://github.com/Sushma345/CODTECH-Task1/assets/173049382/88c7bd62-e031-4f1a-948e-38067ca46304)
 
